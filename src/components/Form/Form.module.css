@@ -1,0 +1,22 @@
+#form{
+    border: 0.5px solid black;
+    border-radius: 3px;
+    background-color: rgb(246,246,246);
+    height: auto;
+    width: auto;
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+
+
+}
+#allform{
+    display: inline-block;
+    
+}
+#input{
+    border: 0.5px solid black;
+    border-radius: 3px;
+    margin-left: 3px;
+}
